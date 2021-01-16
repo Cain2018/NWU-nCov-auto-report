@@ -59,7 +59,12 @@ params = {
     }
 """
 custom_params = [
-
+    ["sfzx","0"],
+    ["area","浙江省 宁波市 海曙区"],
+    ["city","宁波市"],
+    ["province","浙江省"],
+    ["address","浙江省宁波市海曙区中山西路988弄83号楼"],
+    ["geo_api_info",'{"type":"complete","info":"SUCCESS","status":1,"$Da":"jsonp_687452_","position":{"Q":29.14218,"R":121.87518999999998,"lng":21.87519,"lat":29.14218},"message":"Get ipLocation success.Get address success.","location_type":"ip","accuracy":null,"isConverted":true,"addressComponent":{"citycode":"0574","adcode":"330203","businessAreas":[],"neighborhoodType":"","neighborhood":"","building":"","buildingType":"","street":"中山西路","streetNumber":"988号","country":"中国","province":"浙江省","city":"宁波市","district":"海曙区","township":"中山西路"},"formattedAddress":"浙江省宁波市海曙区中山西路988弄83号楼","roads":[],"crosses":[],"pois":[]}'],
 ]
 
 
